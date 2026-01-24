@@ -78,5 +78,6 @@ Internal validation confirmed clear behavioural separation between risk groups a
 - With access to event-level data, future work could extend this framework into predictive churn modelling and controlled retention experiments.
 
 ### Repository Contents
+- `Data/README.md` — Data source documentation
 - `Notebooks/01_data_cleaning_and_features.ipynb` — Full end-to-end analysis
 - `README.md` — Project overview and insights
